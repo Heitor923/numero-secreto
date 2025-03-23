@@ -1,6 +1,3 @@
-///oiiswiwigit push -u origin mainlet
-let boi = 'william'
-
 
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
